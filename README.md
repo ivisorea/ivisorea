@@ -45,7 +45,6 @@ I recently completed a Bootcamp with WBS Project Based Coding School, practice o
 
 ## Stats
 
-[![Ivis' GitHub stats](https://github-readme-stats.vercel.app/api?username=ivisorea)](https://github.com/ivisorea/github-readme-stats)
+[![Ivis' GitHub stats](https://github-readme-stats.vercel.app/api?username=ivisorea)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivisorea&layout=compact)](https://github.com/ivisorea/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivisorea&layout=compact)]
