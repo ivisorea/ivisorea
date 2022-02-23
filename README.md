@@ -8,7 +8,7 @@ I recently completed a Bootcamp with WBS Project Based Coding School, practice o
 
 ## 🛠 Skills
 
-# Frontend
+### Frontend
 [<a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="40" height="40"/></a>][webdevplaylist]
 [<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -24,7 +24,7 @@ I recently completed a Bootcamp with WBS Project Based Coding School, practice o
 <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> 
 
-# Backend
+### Backend
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
@@ -45,5 +45,7 @@ I recently completed a Bootcamp with WBS Project Based Coding School, practice o
 
 ## Stats
 
-[<img align="center" alt="Ivis' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ivisorea&show-icons=true&hide-border=true"/>]
+<img align="center" alt="" src="https://github-readme-stats.vercel.app/api?username=ivisorea&show-icons=true&hide-border=true"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivisorea&layout=compact)](https://github.com/ivisorea/github-readme-stats)
 
