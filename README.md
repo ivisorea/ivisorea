@@ -38,7 +38,8 @@ I recently completed a Bootcamp with WBS Project Based Coding School, practice o
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> 
-    <img src="https://medium.com/codex/django-plpy-717a5f4644dc?utm_source=devglan" alt="postgresql" width="40" height="40"/> </a> 
+    <img src="[https://medium.com/codex/django-plpy-717a5f4644dc?utm_source=devglan](https://uploads-ssl.webflow.com/5fc901bb6e7bc03f5371c144/600af9184bd78c58e777af3d_django-python.svg)" alt="django" width="40" height="40"/> 
+</a> 
  
 
 
